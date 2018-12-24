@@ -9,7 +9,9 @@ tags:
 - tag2
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
+# thumbnailImage: 
+# coverImage:
+# metaAlignment: center
 ---
 
 <!--more-->
